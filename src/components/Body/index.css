@@ -1,0 +1,32 @@
+.body-container {
+  display: flex;
+  margin: 10px;
+}
+.left-container {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  background-color: #e2e8f0;
+  padding: 20px;
+  margin-right: 10px;
+}
+.right-container {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  background-color: #e2e8f0;
+  padding: 20px;
+  margin-left: 10px;
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #f1f5f9;
+  padding: 20px;
+}
+.right-advt {
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid #64748b;
+}
